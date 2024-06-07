@@ -13,7 +13,7 @@ const Delete = () => {
                             <input type="text" className="form-control" placeholder='Enter Post Title...' />
                         </div>
                         <div className="col col-12 col-sm-12 col-md-12 col-lg-12 colxl-12 col-xxl-12">
-                            <button className="btn btn-danger">Search</button>
+                            <button className="btn btn-danger">Delete</button>
                         </div>
                     </div>
                 </div>
